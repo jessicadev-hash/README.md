@@ -7,4 +7,4 @@ Estou começando minha jornada na área de Tecnologia e Desenvolvimento de Softw
 - Inglês
   ## Meus objetivos
   Quero desenvolver minhas habilidades em tecnologia, criar meus próprios projetos e, no futuro, trabalhar profissionalmente com desenvolvimento de softwere.
-  Estou começando do zero, mas estou aprendendo um pouco a cada dia. 
+  Estou começando do zero, mas estou aprendendo um pouco a cada dia.
