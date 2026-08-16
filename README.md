@@ -7,3 +7,6 @@ Estou começando minha jornada na área de Tecnologia e Desenvolvimento de Softw
 🌎 Meu objetivo é trabalhar com tecnologia e desenvolvimento
 
 Estou começando do zero, mas determinada a aprender cada vez mais! 🚀
+## O que estou aprendendo
+
+Estou iniciando minha jornada em Desenvolvimento de Software.
